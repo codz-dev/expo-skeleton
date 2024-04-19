@@ -9,9 +9,7 @@
 
 <div align="center">
 
--Skeleton Loading Component for Expo mobile applications
-
-
+Skeleton Loading Component for Expo mobile applications
 
 -   Fully customizable, custom shapes, colors
 -   Smooth and fast
